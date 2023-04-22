@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Exploring the world of javascript<br>🌱 
+🔭 Exploring the javascript world<br> 
 
 
 ## 🌐 Socials:
