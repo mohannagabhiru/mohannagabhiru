@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on javascript, react js, react native, firebase<br>🌱 I’m currently learning nodejs
+🔭 Exploring the world of javascript<br>🌱 
 
 
 ## 🌐 Socials:
